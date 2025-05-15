@@ -1,7 +1,8 @@
 Project Title: Yum Yum Restaurant Management System
 
 
-Description
+Description:
+
 Yum Yum is a comprehensive restaurant management database system designed to streamline operations for a fast-food restaurant. It tracks:
 
 Customer orders, loyalty status, and spending
